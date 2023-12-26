@@ -1,0 +1,62 @@
+FAKE_DB_TOOLS = [
+    {
+        "id":"python-data",
+        "name":"Python",
+        "category":"Data"
+    },
+    {
+        "id":"r-data",
+        "name":"R",
+        "category":"Data"
+    },
+    {
+        "id":"tableau-data-visualization",
+        "name":"Tableau",
+        "category":"Data Visualization"
+    },
+    {
+        "id":"powerbi-data-analytics",
+        "name":"powerBI",
+        "category":"Data"
+    },
+    {
+        "id":"google-data-studio-data-visualization",
+        "name":"Google Data Studio",
+        "category":"Data Visualization"
+    },
+    {
+        "id":"pandas-data",
+        "name":"Pandas",
+        "category":"Data"
+    },
+    {
+        "id":"fastapi-backend",
+        "name":"FastAPI",
+        "category":"Software"
+    },
+    {
+        "id":"bigquery-cloud",
+        "name":"Bigquery",
+        "category":"Cloud"
+    },
+    {
+        "id":"java-software",
+        "name":"Java",
+        "category":"Software"
+    },
+    {
+        "id":"node-software",
+        "name":"Nodejs",
+        "category":"Software"
+    },
+    {
+        "id":"oracle-data-base",
+        "name":"Oracle",
+        "category":"Database"
+    },
+    {
+        "id":"sql-server-database",
+        "name":"SQL server",
+        "category":"Database"
+    }
+]
